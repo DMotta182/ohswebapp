@@ -1,0 +1,17 @@
+.item-price {
+  color: black;
+}
+
+.currency-symbol {
+  position: relative;
+  top: -2px;
+  vertical-align: super;
+  font-size: 12px;
+}
+
+.amount-cents {
+  position: relative;
+  top: -2px;
+  vertical-align: super;
+  font-size: 12px;
+}

@@ -1,0 +1,8 @@
+.card-width {
+  width: 100%;
+}
+
+.item-card-price {
+  margin-top: -6px;
+  color: red;
+}
