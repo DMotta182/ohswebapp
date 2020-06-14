@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ohswebapp/static/css/main.ddcd8762.chunk.css",
+    "main.js": "/ohswebapp/static/js/main.3262fab0.chunk.js",
+    "main.js.map": "/ohswebapp/static/js/main.3262fab0.chunk.js.map",
+    "runtime-main.js": "/ohswebapp/static/js/runtime-main.aa3a409d.js",
+    "runtime-main.js.map": "/ohswebapp/static/js/runtime-main.aa3a409d.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/ohswebapp/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.4389cff0.chunk.js": "/ohswebapp/static/js/2.4389cff0.chunk.js",
+    "static/js/2.4389cff0.chunk.js.map": "/ohswebapp/static/js/2.4389cff0.chunk.js.map",
+    "index.html": "/ohswebapp/index.html",
+    "precache-manifest.2cc13143f6e6e5de925d9dc1010d17e3.js": "/ohswebapp/precache-manifest.2cc13143f6e6e5de925d9dc1010d17e3.js",
+    "service-worker.js": "/ohswebapp/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/ohswebapp/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.ddcd8762.chunk.css.map": "/ohswebapp/static/css/main.ddcd8762.chunk.css.map",
+    "static/js/2.4389cff0.chunk.js.LICENSE.txt": "/ohswebapp/static/js/2.4389cff0.chunk.js.LICENSE.txt",
+    "static/media/check.svg": "/ohswebapp/static/media/check.4a7a504d.svg",
+    "static/media/logo.svg": "/ohswebapp/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa3a409d.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.4389cff0.chunk.js",
+    "static/css/main.ddcd8762.chunk.css",
+    "static/js/main.3262fab0.chunk.js"
+  ]
+}
